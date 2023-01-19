@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/arcticturn/static/css/main.86a6a49a.css",
-    "main.js": "/arcticturn/static/js/main.16076908.js",
+    "main.js": "/arcticturn/static/js/main.4b9051c9.js",
     "static/js/787.28cb0dcd.chunk.js": "/arcticturn/static/js/787.28cb0dcd.chunk.js",
     "static/media/student2.jpg": "/arcticturn/static/media/student2.ed72599db3b9c9bb50b7.jpg",
     "static/media/student1.jpg": "/arcticturn/static/media/student1.21968001fafdc0d6cb9c.jpg",
     "static/media/University.jpg": "/arcticturn/static/media/University.f344d0edb21ab0a16b0f.jpg",
     "index.html": "/arcticturn/index.html",
     "main.86a6a49a.css.map": "/arcticturn/static/css/main.86a6a49a.css.map",
-    "main.16076908.js.map": "/arcticturn/static/js/main.16076908.js.map",
+    "main.4b9051c9.js.map": "/arcticturn/static/js/main.4b9051c9.js.map",
     "787.28cb0dcd.chunk.js.map": "/arcticturn/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86a6a49a.css",
-    "static/js/main.16076908.js"
+    "static/js/main.4b9051c9.js"
   ]
 }
